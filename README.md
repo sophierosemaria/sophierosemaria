@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophierosemaria
-- 👀 I’m interested in learning to become a frontend developer 
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in learning frontend development 
+- 🌱 I’m currently learning React
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
